@@ -1,4 +1,4 @@
-package de.priscilla.petfoodgenerator
+package de.priscillali.petfoodgenerator
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication

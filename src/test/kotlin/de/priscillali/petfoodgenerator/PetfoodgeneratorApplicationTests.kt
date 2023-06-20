@@ -1,4 +1,4 @@
-package de.priscilla.petfoodgenerator
+package de.priscillali.petfoodgenerator
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
